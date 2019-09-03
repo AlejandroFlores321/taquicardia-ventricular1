@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-02_2203",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -48,7 +48,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "ELECTRODOCS",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
